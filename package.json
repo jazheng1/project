@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jazheng1/project#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.3"
+    "express-handlebars": "^5.3.1"
   }
 }
